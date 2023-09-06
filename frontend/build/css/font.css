@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'yekan';
+    src: url('../fonts/BYekan.eot' )format('eot'),
+     url('../fonts/BYekan.ttf')format('truetype'),
+     url('../fonts/BYekan.woff')format('woff'),
+     url('../fonts/BYekan.woff2')format('woff2');
+
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'vazir';
+    src: url('../fonts/vazir.eot' )format('eot'),
+     url('../fonts/vazir.ttf')format('truetype'),
+     url('../fonts/vazir.woff')format('woff'),
+     url('../fonts/vazir.woff2')format('woff2');
+}
+
